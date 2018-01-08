@@ -1,3 +1,6 @@
+## Deprecated
+Changes in this repo have been merged in the official repository. There is no reson to continue using this one.
+
 # react-native-safe-area
 
 React Native module to retrieve safe area insets for iOS 11 or later.
